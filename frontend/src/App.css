@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  background-color: #f5f5f5;
+}
+
+.MuiContainer-root {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
